@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alimohammedkhan
 - 👀 I’m interested in coding and tech
-- 🌱 I’m currently learning javascript, matlab, DSA
+- 🌱 I’m currently learning RAG, LangChain, AI, ML, Data Structures & Algorithms......
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me : codemo1992@gmail.com
+- 📫 How to reach me : mohammedalikhan1992@gmail.com
 
 <!---
 alimohammedkhan/alimohammedkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
